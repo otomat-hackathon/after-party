@@ -18,13 +18,13 @@ Bu liste tekrar güncellenecek.
 
 Organizasyon ekibi:
 
-- [Burak Can](https://burakcan.me/)
-- [Hana Kamer](https://hanakamer.com/)
-- [Fatih Erikli](http://fatiherikli.com/)
-- [Ömer Çıtak](http://omercitak.com/)
-- [Halil Kaya](https://halilkaya.net/)
-- [Liva Cengiz](http://livacengiz.github.io/)
-- [Yiğit Güneli](http://yiit.org/)
+- [Burak Can](https://twitter.com/neoberg)
+- [Hana Kamer](https://twitter.com/terskaplumbaa)
+- [Fatih Erikli](https://twitter.com/fthrkl)
+- [Ömer Çıtak](https://twitter.com/Om3rCitak)
+- [Halil Kaya](https://twitter.com/HalilKaya) 
+- [Liva Cengiz](https://twitter.com/ahmetlivacengiz)
+- [Yiğit Güneli](https://twitter.com/yiit)
 
 Sponsor 
 
