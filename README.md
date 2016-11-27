@@ -8,12 +8,12 @@ Otomat Hackathon'u başarıyla tamamladık. 2 gün boyunca oldukça eğlenceli v
 
 Bu liste tekrar güncellenecek.
 
-- <https://keremciu.github.io/metrobus-mario/>
-- <https://abdullah.github.io/po/index.html>
-- <https://hanakamer.github.io/giraffe-pico8/>
-- <https://github.com/burakguneli/Run>
-- <https://github.com/Om3rCitak/biji-fighter>
-- <https://github.com/oguzzhan/kalkulator>
+- 🚌 <https://keremciu.github.io/metrobus-mario/>
+- 🎼 <https://abdullah.github.io/po/index.html>
+- 🐝 <https://hanakamer.github.io/giraffe-pico8/>
+- 💣 <https://github.com/burakguneli/Run>
+- 🏓 <https://github.com/Om3rCitak/biji-fighter>
+- 🔣 <https://github.com/oguzzhan/kalkulator>
 
 ### Teşekkürler
 
