@@ -13,6 +13,7 @@ Bu liste tekrar güncellenecek.
 - <https://hanakamer.github.io/giraffe-pico8/>
 - <https://github.com/burakguneli/Run>
 - <https://github.com/Om3rCitak/biji-fighter>
+- <https://github.com/oguzzhan/kalkulator>
 
 ### Teşekkürler
 
