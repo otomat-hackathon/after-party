@@ -15,6 +15,7 @@ Bu liste tekrar güncellenecek.
 - 🏓 [biji-fighter](https://github.com/Om3rCitak/biji-fighter)
 - 🔣 [kalkulator](https://github.com/oguzzhan/kalkulator)
 - 💡 [soyouhaveanidea](https://github.com/yigitbey/soyouhaveanidea)
+- 🚥 [colorbox](https://github.com/livacengiz/colorbox)
 
 ### Teşekkürler
 
