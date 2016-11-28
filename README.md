@@ -14,6 +14,7 @@ Bu liste tekrar güncellenecek.
 - 💣 [run](https://github.com/burakguneli/Run)
 - 🏓 [biji-fighter](https://github.com/Om3rCitak/biji-fighter)
 - 🔣 [kalkulator](https://github.com/oguzzhan/kalkulator)
+- 💡 [soyouhaveanidea](https://github.com/yigitbey/soyouhaveanidea)
 
 ### Teşekkürler
 
